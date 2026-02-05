@@ -1,0 +1,62 @@
+
+----------------------- BEGINNER LEVEL (Foundation)!!------------------------------------
+
+1. Show all patient recordes.
+    
+2. Display only patient_id,Diagnosis,Doctor.
+
+3. Find all patient admitted after "2023-01-05".
+
+4. Get "Distinct" Diagnosis Types.
+
+5. Show patient Where Bed_occupancy ='ICU'.
+
+6. Find patient whose feedback is greater than 4.5
+
+7. list patient who took 'MRI Test'.
+     
+---------------------- INTERMEDIATE LEVEL -----------------------------------
+
+8. Count total number of patients. 
+    
+9. Count patient per Diagnosis.
+     
+10. Find Average Feedback.
+      
+11. Find total billing Amount Collected.
+      
+12. Show average billing Amount per Bed_occupancy.
+      
+13. Find Doctors who treated more than 5 patients.
+     
+14. Find patients whose Billing Amount > Insurance Amount.
+    
+15. Show length of Stay (Discharge-Admit) for each patient
+      
+16. Short patient by Billing Amount ( Highest First ).
+     
+-------------------- ADVANCED LEVEL --------------------------------------
+
+17. Top 3 Diagnoses by total billing.
+     	 
+18. Docor-wise average feedback.
+     
+19. Month-wise paient admissions.
+
+20. Patients stayed more than 7 days.
+      
+21. Insurance coverage percentage.
+        
+22. Bed occupancy generating highest revenue.
+      
+23. Same diagnosis treated by same doctor multiple times.
+      
+24. Rank patients by billing Amount. 
+
+25. View for High Billing Patients (>1000)
+     
+26. Check NULL Values.
+      
+27. Index on Patient_ID.
+     
+    
